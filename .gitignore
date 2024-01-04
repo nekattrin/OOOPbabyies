@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Ignore everything
+*
+
+# Except for .cpp files
+!*.cpp
